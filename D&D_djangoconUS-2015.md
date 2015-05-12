@@ -1,4 +1,11 @@
-#A D&D-based guide to Contribution and Inclusion in the Python Community
+#A D&D-based guide to Contributing to the Django Community
+##"A D&D-based guide to Growing the  community"
+-  In the "Wizard" section, highlight the three different types of arcane casters
+    +  Wizard == Pythonista
+    +  Sorcerer == JavaScript expert?
+    +  Warlock == HTML/CSS expert?
+    +  Cleric == Documentation people? (that may be trying to hard to extend that metaphor)
+
 ##Kojo Idrissa
 -  Rogue Pythonista
 -  Educator & Accountant w/ an MBA
@@ -68,6 +75,10 @@
 -  Evangilize
 *  Not an EXHAUSTIVE LIST, just a beginning
     -  Multi-class!!
+
+-----
+#STOP HERE!!
+----
 
 #Building a strong "party"
 -  Once you establish different roles are required, it's logical that different types of people may be needed to fill those roles. Or, that different types of people may prefer different types of roles.
