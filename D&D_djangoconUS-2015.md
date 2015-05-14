@@ -1,15 +1,23 @@
-#A D&D-based guide to Contributing to the Django Community
-##"A D&D-based guide to Growing the  community"
--  In the "Wizard" section, highlight the three different types of arcane casters
-    +  Wizard == Pythonista
-    +  Sorcerer == JavaScript expert?
-    +  Warlock == HTML/CSS expert?
-    +  Cleric == Documentation people? (that may be trying to hard to extend that metaphor)
+#A D&D-based guide to Growth & Contribution in the Django Community
+
+##Proposal DRAFT
+The Django community needs many different types of contributions to thrive and grow. If you ever thought, "*I'm not a great coder or web dev, so I can't contribute to Django. :-(*", you're WRONG!
+
+First, using classes and roles from Dungeons & Dragons (D&D) as a lens, we'll look at multiple contributing roles in the Django community, and how you can find one that fits you. Not familiar with D&D? I'll provide a brief, relevant primer.
 
 ##Kojo Idrissa
 -  Rogue Pythonista
 -  Educator & Accountant w/ an MBA
 -  @transition
+
+##NEW ADDITIONS
+-  In the "Arcane Caster" section, highlight the three different types of arcane casters
+    +  Wizard == Pythonista
+    +  Sorcerer == JavaScript expert?
+    +  Warlock == HTML/CSS expert?
+-  Divine casters?
+    +  Cleric == Documentation people? (that may be trying to hard to extend that metaphor)
+
 
 #Main
 "Every character is different, with various strengths and weaknesses, so the best party of adventurers is one in which the characters complement each other and cover the weaknesses of their companions. The adventurers must cooperate to successfully complete the adventure."
@@ -29,10 +37,10 @@
     -  Leader
     +  http://dnd4.wikia.com/wiki/Leader#Leader
 
-#Classes and Roles in action: I DESCRIBE a mini adventure!!
+#REMOVE FOR TIME Classes and Roles in action: I DESCRIBE a mini adventure!!
 +  A dragon controlling an army of goblins
 +  Wizard: Chain Lightning; Sleep; Fireball; Ice Storm
-+  Fighter: heads towards the dragon, drawing attenion from goblins
++  Fighter: heads towards the dragon, drawing attention from goblins
 +  Rogue: sneaks past the goblins, behind the dragon
 +  Cleric: Bolsters allies; hinders foes; heals as needed
 +  Rogue sneak attack; Fighter great cleave; Wizard Lightning Bolt; Cleric Divine strike
@@ -40,7 +48,7 @@
 +  Loot!! Glory!!
 
 #Roles
-##How to become a Python Wizard Superstar
+##How to become a Django Arcane Superstar
 *  Code (basic scripts; procedural)
 *  More code (functions; modular code)
 *  MOAR CODE (data structures & algorithms)
@@ -50,7 +58,7 @@
 *  I had to find a way to include "[Castle Anthrax: Dungeon Generation Techniques](http://pyvideo.org/video/2582/castle-anthrax-dungeon-generation-techniques)"
 *  1337 codez!! ((learn a new paradigm; Functional programming?)???)
 
-#How to become a Python Luminary
+#How to become a Django Luminary
 +  Like Clerics or "Leader" roles? Mostly speaking TO the community
 -  Code
 -  Present locally
@@ -61,15 +69,15 @@
 -  Present globally
 -  Profit!!
 
-#How to be a Python Evangelist
+#How to be a Django Evangelist
 +  Like Bards? Mostly speaking OUTSIDE the community, but **for/on behalf** of the community
-+  Focus on how to use Python to solve problems in YOUR domain
++  Focus on how to use Django to solve problems in YOUR domain
 +  Learn to speak in terms your target audience will understand, not just other programmers.
 
-#How to be a Python Educator
+#How to be a Django Educator
 -  Similar to Evangelist or Luminary, with more emphasis on increasing the skills of others or introducing them to new options
 
-#How to Contribute to Python w/ minimal coding skills
+#How to Contribute to Django w/ minimal coding skills
 -  Docs
 -  Translation
 -  Evangilize
