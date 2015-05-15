@@ -1,4 +1,4 @@
-#How to Practice Inclusion to Benefit the Django Community
+#How to Practice Inclusion and Benefit Django
 
 ##Kojo Idrissa
 -  Proto Software Engineer/Web Developer

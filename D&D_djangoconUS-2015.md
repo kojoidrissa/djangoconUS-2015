@@ -20,14 +20,14 @@ First, using classes and roles from Dungeons & Dragons (D&D) as a lens, we'll lo
 
 
 #Main
-"Every character is different, with various strengths and weaknesses, so the best party of adventurers is one in which the characters complement each other and cover the weaknesses of their companions. The adventurers must cooperate to successfully complete the adventure."
-    [D&D 5E free downloadable rules](http://dnd.wizards.com/articles/features/basicrules?x=dnd/basicrules)
+>"Every character is different, with various strengths and weaknesses, so the best party of adventurers is one in which the characters complement each other and cover the weaknesses of their companions. The adventurers must cooperate to successfully complete the adventure." - [D&D 5E free downloadable rules](http://dnd.wizards.com/articles/features/basicrules?x=dnd/basicrules)
 
 #Quick D&D Class Primer
 -  Based on "Lord of the Rings"
 -  Classes
     -  Fighter
     -  Wizard (Magic-User)
+        +  Other Arcane casters
     -  Rogue (Thief)
     -  Cleric
 -  From 4e: Roles
