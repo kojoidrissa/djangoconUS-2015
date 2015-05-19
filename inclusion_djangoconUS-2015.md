@@ -66,6 +66,12 @@
     +  If you're missing a certain skill set, you're more likely to find it OUTSIDE your current circles
 -  Anna Ravenscroft, EuroPython 2011, [Diversity as a Dependency](https://www.youtube.com/watch?v=PLYI46Ou-wI) at about 50 minutes, suggests you "bring someone who is NOT like you" to the next conference.
 
+
+---
+#Understanding The Power of Privilege
+*  Your Personal Privilege Matrix
++  Privilege Arbitrage
++  "Turn Your Sadness Into Kindness"
 ---
 
 #Do's & Don'ts
@@ -82,7 +88,7 @@
 ---
 
 #What if you can't?
-If your heart's not really into it or you feel it's "too hard", be honest with yourself and just hang around others like you. 
+If your heart's not really into it or you feel it's "too hard", be honest with yourself and just hang around others like you. An insincere effort often does more harm than good. 
 
 Recognize that this behavior may leave you isolated from a large (and growing) portion of the community.
 
