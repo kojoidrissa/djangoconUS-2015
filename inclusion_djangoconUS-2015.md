@@ -36,45 +36,29 @@
     *  No FLOSS project, ever
 +  Inclusion lets you maximize the number of contributors
 
-#HOW: Practicing Inclusivity
-
-#Check your assumptions
-+  "You made an assumption you didn't realize you'd made."
-+  *What does an **X** look like?*
-    +  Jacob Kaplan-Moss' "[Three Faces of Zuckerberg](https://www.youtube.com/watch?v=hIJdFxYlEKE)" 23:11 into his PyCon 2015 Keynote.
--  An assumption I heard IN THIS ROOM a few years ago: complicated.
-
----
-
-#`import this`: Zen of Python on Inclusiveness
--  `Errors should never pass silently`
-    +  Problems are likely to pass silently, so you need to be vigilant
--  `Although practicality beats purity` (re: special cases)
-    +  the point of this talk
-    +  "Agree with me or be a terrible person!" vs. "Here's how this can help us"
--  `In the face of ambiguity, refuse the temptation to guess`
-    +  race/gender ID/orientation/ethnicity: not your concern at Day 1
--  `Now is better than never.`
-    +  `Although never is often better than *right* now.`
-    +  Reflection and forethought go a LONG way towards doing this right
-
----
-
-#Get out of your bubble
-+  don't just talk to other tech or gaming people
+#HOW: Practicing Inclusivity 101
+-  Check your assumptions
+-  Zen of Python on Inclusiveness
+    +  `Errors should never pass silently`
+        +  Remain vigilant, check for exceptions, validate form inputs
+        +  Discuss errors when they occur (102)
+    +  `In the face of ambiguity, refuse the temptation to guess`: how much does the ambiguity matter?
++  Get out of your bubble
     +  non-technical people are the LARGEST growth vector for any community
     +  If you're missing a certain skill set, you're more likely to find it OUTSIDE your current circles
--  Anna Ravenscroft, EuroPython 2011, [Diversity as a Dependency](https://www.youtube.com/watch?v=PLYI46Ou-wI) at about 50 minutes, suggests you "bring someone who is NOT like you" to the next conference.
-
+    -  Anna Ravenscroft, EuroPython 2011, [Diversity as a Dependency](https://www.youtube.com/watch?v=PLYI46Ou-wI) at about 50 minutes, suggests you "bring someone who is NOT like you" to the next conference.
++  Flip the Demographics
 
 ---
-#Understanding The Power of Privilege
+
+#Practicing Inclusivity 102: Understanding The Power of Privilege
 *  Your Personal Privilege Matrix
 +  Privilege Arbitrage
 +  "Turn Your Sadness Into Kindness"
+
 ---
 
-#Do's & Don'ts
+<!-- #Do's & Don'ts
 
 ##Do: Be empathetic
 
@@ -83,7 +67,7 @@
 ##Don't: Focus primarily on "legal compliance"
 
 ##Don't: Be afraid to be "wrong"
-
+ -->
 
 ---
 
@@ -94,10 +78,13 @@ Recognize that this behavior may leave you isolated from a large (and growing) p
 
 #Final Words
 
-##[Just as systems tend towards entropy, if you leave a community alone it tends towards toxicity. Good communities require continual effort.](https://twitter.com/jacobian/status/514104755660914688)
-####A Tweet from Jacob Kaplan-Moss, Django core contributer and former BDFL
+>[Just as systems tend towards entropy, if you leave a community alone it tends towards toxicity. Good communities require continual effort.](https://twitter.com/jacobian/status/514104755660914688) - Jacob Kaplan-Moss/@jacobian, Django core contributer and former BDFL
 
-That goes for individuals too, especially **me**. It's a process/journey, not a product/destination.
+...
+>[By as many community members as possible.](https://twitter.com/Transition/status/600510473516163073) - Kojo Idrissa/@transition
+
+The more people involved, the less each has to do. And the less there is TO do. It's a process/journey, not a product/destination.
+
 
 #"Prior Art"
 -  PyTexas 2014: [A D&D-based guide to Contribution and Inclusion in the Python Community](https://www.youtube.com/watch?v=Xpd9ms2v3Yc)
@@ -107,5 +94,5 @@ That goes for individuals too, especially **me**. It's a process/journey, not a 
 
 #Q/A?
 -  @Transition on Twitter
--  https://github.com/kojoidrissa/AlterConf_2015-04-25
+-  https://github.com/kojoidrissa/djangoconUS-2015
 
