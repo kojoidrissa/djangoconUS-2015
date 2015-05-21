@@ -40,8 +40,9 @@
 -  Check your assumptions
 -  Zen of Python on Inclusiveness
     +  `Errors should never pass silently`
-        +  Remain vigilant, check for exceptions, validate form inputs
-        +  Discuss errors when they occur (102)
+        +  Remain vigilant
+            +  check for exceptions, validate form inputs (**101**)
+        +  Discuss errors as they occur (**102**)
     +  `In the face of ambiguity, refuse the temptation to guess`: how much does the ambiguity matter?
 +  Get out of your bubble
     +  non-technical people are the LARGEST growth vector for any community
@@ -53,6 +54,13 @@
 
 #Practicing Inclusivity 102: Understanding The Power of Privilege
 *  Your Personal Privilege Matrix
+    -  CIS  Gendered
+    -  Heterosexual vs. Other
+    -  Male
+    -  White
+    -  Educational background
+    -  Wealth
+        +  [Legislators and corporate lobbyists meet in secret at Georgia resort](http://www.11alive.com/story/news/local/investigations/2015/05/21/investigators-legislators-and-corporate-lobbyists-meet-in-secret-at-georgia-resort/27695105/): An apparently CIS gendered heterosexual white professional male **with a television news crew** ran OUT of privilege when money was involved.
 +  Privilege Arbitrage
 +  "Turn Your Sadness Into Kindness"
 
