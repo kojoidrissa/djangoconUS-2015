@@ -53,15 +53,19 @@
 ---
 
 #Practicing Inclusivity 102: Understanding The Power of Privilege
++  Privilege Arbitrage
+    *  Using relative higher privilege to benefit those with relative lower privilege in the same area/setting.
 *  Your Personal Privilege Matrix
     -  CIS  Gendered
     -  Heterosexual vs. Other
     -  Male
     -  White
     -  Educational background
-    -  Wealth
+        +  What options do you have?
+        +  What options are you AWARE of?
+    -  Wealth/Income
+        +  Minimum wage($15K/year) vs. $50K/year vs $100K+/year 
         +  [Legislators and corporate lobbyists meet in secret at Georgia resort](http://www.11alive.com/story/news/local/investigations/2015/05/21/investigators-legislators-and-corporate-lobbyists-meet-in-secret-at-georgia-resort/27695105/): An apparently CIS gendered heterosexual white professional male **with a television news crew** ran OUT of privilege when money was involved.
-+  Privilege Arbitrage
 +  "Turn Your Sadness Into Kindness"
 
 ---
