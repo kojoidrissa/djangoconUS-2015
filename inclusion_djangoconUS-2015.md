@@ -36,6 +36,10 @@
     *  No FLOSS project, ever
 +  Inclusion lets you maximize the number of contributors
 
+---
+
+>It's easier to advocate for change than to implement it: Do BOTH. #quote - [Tristan Bishop via Twitter](https://twitter.com/KnowledgeBishop/status/595408900037410816)
+
 #HOW: Practicing Inclusivity 101
 -  Check your assumptions
 -  Zen of Python on Inclusiveness
@@ -53,6 +57,7 @@
 ---
 
 #Practicing Inclusivity 102: Understanding The Power of Privilege
+-  Privilege: Not what 
 +  Privilege Arbitrage
     *  Using relative higher privilege to benefit those with relative lower privilege in the same area/setting.
 *  Your Personal Privilege Matrix
