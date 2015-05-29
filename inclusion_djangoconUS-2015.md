@@ -57,13 +57,16 @@
 ---
 
 #Practicing Inclusivity 102: Understanding The Power of Privilege
--  Privilege: Not what 
+>“Privilege isn't wealth or having it easy: it's what you don't have to deal with”  @JustSlyRed #AlterConf 
+ - Tweet by [Kojo](https://twitter.com/Transition/status/592068382754635776), quoting [@JustSlyRed](https://twitter.com/JustSlyRed) at [Alterconf - Austin](http://www.alterconf.com/speakers/mario-jara)
+
 +  Privilege Arbitrage
     *  Using relative higher privilege to benefit those with relative lower privilege in the same area/setting.
 *  Your Personal Privilege Matrix
     -  CIS  Gendered
     -  Heterosexual vs. Other
     -  Male
+        +  A generally decreased physical risk threshold
     -  White
     -  Educational background
         +  What options do you have?
