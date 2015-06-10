@@ -62,7 +62,7 @@
 
 +  Privilege Arbitrage
     *  Using relative higher privilege to benefit those with relative lower privilege in the same area/setting.
-*  Your Personal Privilege Matrix
+*  Your Personal Privilege Matrix (WHAT TO USE AS AXES?)
     -  CIS  Gendered
     -  Heterosexual vs. Other
     -  Male
@@ -72,7 +72,9 @@
         +  What options do you have?
         +  What options are you AWARE of?
     -  Wealth/Income
-        +  Minimum wage($15K/year) vs. $50K/year vs $100K+/year 
+        +  Minimum wage($15K/year) vs. $50K/year vs $100K+/year
+        +  Do I want to separate these into two categories? 
+            *  $50K/year passive income > $100K/year active income
         +  [Legislators and corporate lobbyists meet in secret at Georgia resort](http://www.11alive.com/story/news/local/investigations/2015/05/21/investigators-legislators-and-corporate-lobbyists-meet-in-secret-at-georgia-resort/27695105/): An apparently CIS gendered heterosexual white professional male **with a television news crew** ran OUT of privilege when money was involved.
 +  "Turn Your Sadness Into Kindness"
 
