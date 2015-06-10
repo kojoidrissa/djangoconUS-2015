@@ -56,7 +56,10 @@
 
 ---
 
-#Practicing Inclusivity 102: Understanding The Power of Privilege
+#Practicing Inclusivity 102: Taking Action
+---
+
+#Practicing Inclusivity 103: Understanding The Power of Privilege
 >“Privilege isn't wealth or having it easy: it's what you don't have to deal with”  @JustSlyRed #AlterConf 
  - Tweet by [Kojo](https://twitter.com/Transition/status/592068382754635776), quoting [@JustSlyRed](https://twitter.com/JustSlyRed) at [Alterconf - Austin](http://www.alterconf.com/speakers/mario-jara)
 
@@ -64,17 +67,23 @@
     *  Using relative higher privilege to benefit those with relative lower privilege in the same area/setting.
 *  Your Personal Privilege Matrix (WHAT TO USE AS AXES?)
     -  CIS  Gendered
+        +  non = 5; people have NO IDEA;
     -  Heterosexual vs. Other
+        +  Homo > Bi > Pan/Poly
+        +  The more "understood", the more privileged
     -  Male
         +  A generally decreased physical risk threshold
     -  White
     -  Educational background
         +  What options do you have?
         +  What options are you AWARE of?
-    -  Wealth/Income
+    -  Wealth
+        *  $50K/year passive income > $100K/year active income
+        *  multi-generational? Opportunities?
+        *  Compare to national averages (to make more objective)
+    -  Income
         +  Minimum wage($15K/year) vs. $50K/year vs $100K+/year
-        +  Do I want to separate these into two categories? 
-            *  $50K/year passive income > $100K/year active income
+        +  Compare to national averages (to make more objective)
         +  [Legislators and corporate lobbyists meet in secret at Georgia resort](http://www.11alive.com/story/news/local/investigations/2015/05/21/investigators-legislators-and-corporate-lobbyists-meet-in-secret-at-georgia-resort/27695105/): An apparently CIS gendered heterosexual white professional male **with a television news crew** ran OUT of privilege when money was involved.
 +  "Turn Your Sadness Into Kindness"
 
