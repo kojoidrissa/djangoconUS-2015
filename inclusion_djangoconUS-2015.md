@@ -40,7 +40,9 @@
 
 >It's easier to advocate for change than to implement it: Do BOTH. #quote - [Tristan Bishop via Twitter](https://twitter.com/KnowledgeBishop/status/595408900037410816)
 
-#HOW: Practicing Inclusivity 101
+#HOW
+
+#Practicing Inclusivity 101: Building Awareness
 -  Check your assumptions
 -  Zen of Python on Inclusiveness
     +  `Errors should never pass silently`
@@ -57,6 +59,9 @@
 ---
 
 #Practicing Inclusivity 102: Taking Action
+> [If you run a community, and you allow assholes to be awful to members of your community, that means you’re the asshole.](https://twitter.com/fraying/status/610644474734055424) - Derek Powazek via Twitter
+
+
 ---
 
 #Practicing Inclusivity 103: Understanding The Power of Privilege
