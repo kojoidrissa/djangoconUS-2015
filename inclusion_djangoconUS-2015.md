@@ -122,6 +122,10 @@ Recognize that this behavior may leave you isolated from a large (and growing) p
 The more people involved, the less each has to do. And the less there is TO do. It's a process/journey, not a product/destination.
 
 
+#I'm not so smart
+-  [A More Accessible Django Girls](https://www.youtube.com/watch?v=xTXt4dRa6Jc) by Lacey Williams Henschel [@laceynwilliams](https://twitter.com/laceynwilliams) at [Django Birthday](https://twitter.com/djangobirthday)
+    +  Multiple mentions of [AlterConf](http://www.alterconf.com/)
+
 #"Prior Art"
 -  PyTexas 2014: [A D&D-based guide to Contribution and Inclusion in the Python Community](https://www.youtube.com/watch?v=Xpd9ms2v3Yc)
     +  my notes & slides from that talk - https://github.com/kojoidrissa/PyTexas2014

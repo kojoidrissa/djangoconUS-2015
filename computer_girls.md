@@ -6,3 +6,5 @@
     +  The book on Amazon
 -  [Letting the ‘‘Computer Boys’’ Take Over: Technology and the Politics of Organizational Transformation](http://homes.soic.indiana.edu/nensmeng/files/ensmenger2003.pdf)
     +  Earlier paper
+-  The above marketing push from the late 60s was then supported by this in the [late 70s & 80s](http://dot429.com/articles/5334-how-marketing-in-the-80s-killed-computer-science-for-women)
+-  
