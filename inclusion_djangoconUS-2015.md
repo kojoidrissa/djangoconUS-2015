@@ -62,6 +62,11 @@
 > [If you run a community, and you allow assholes to be awful to members of your community, that means you’re the asshole.](https://twitter.com/fraying/status/610644474734055424) - Derek Powazek via Twitter
 
 
+-  Sharing your concerns/observations with community organizers or leaders
+-  Feedback mechanism? Do you have one? And if so, is it clear and obvious that you WANT/WELCOME feedback? Even if it's negative?
+    +  It should be anonymous by default
+    -  "They could make a comment on Meetup" is the wrong answer. 
+
 ---
 
 #Practicing Inclusivity 103: Understanding The Power of Privilege
