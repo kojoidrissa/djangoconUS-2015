@@ -131,6 +131,11 @@ The more people involved, the less each has to do. And the less there is TO do. 
 -  [A More Accessible Django Girls](https://www.youtube.com/watch?v=xTXt4dRa6Jc) by Lacey Williams Henschel [@laceynwilliams](https://twitter.com/laceynwilliams) at [Django Birthday](https://twitter.com/djangobirthday)
     +  Multiple mentions of [AlterConf](http://www.alterconf.com/)
 
+#I'm not so great
+On 2015-08-18 (3 weeks - 1 day ago) I was at MY local Python meetup. When I got home & checked Twitter (21:33:32), [THIS tweet from the DjangoCon US chair](https://twitter.com/webology/status/633822723437805568) was in my time line. Reading it made me think: had I then been practicing ANY of what I JUST preached (and had ALREADY written over a month ago), 45 minutes ago? No, because I was too caught up in my own conversations.
+
+THIS is why we need 'as many community members as possible' placing some of their focus on this.
+
 #"Prior Art"
 -  PyTexas 2014: [A D&D-based guide to Contribution and Inclusion in the Python Community](https://www.youtube.com/watch?v=Xpd9ms2v3Yc)
     +  my notes & slides from that talk - https://github.com/kojoidrissa/PyTexas2014
