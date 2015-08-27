@@ -27,6 +27,9 @@
     +  harder to implement, requires cultural change
     +  provides a superset of above two terms
 
+#Silent Errors
+-  Am I going to summarize all the "silent errors" I've found over the past few months?
+
 #WHY?
 -  To build a strong "party", you need many types of *awesome*
 -  Inherent limits on each community
