@@ -68,7 +68,10 @@
 -  Sharing your concerns/observations with community organizers or leaders
 -  Feedback mechanism? Do you have one? And if so, is it clear and obvious that you WANT/WELCOME feedback? Even if it's negative?
     +  It should be anonymous by default
-    -  "They could make a comment on Meetup" is the wrong answer. 
+    -  "They could make a comment on Meetup" is the wrong answer.
+*  Having greeters/ambassadors in your community
+    -  designated people to interface with new visitors
+    -  *Your community has a small window of 'first contact' with new visitors* Neeraj Tandon
 
 ---
 
@@ -78,7 +81,7 @@
 
 +  Privilege Arbitrage
     *  Using relative higher privilege to benefit those with relative lower privilege in the same area/setting.
-*  Your Personal Privilege Matrix (WHAT TO USE AS AXES?)
+*  Your Personal Privilege Matrix (WHAT TO USE AS AXES?); Perform "Pseudo-factor analysis" on [Buzzfeed Privilege Quiz](http://www.buzzfeed.com/regajha/how-privileged-are-you#.rva5j0d3o5)
     -  CIS  Gendered
         +  non = 5; people have NO IDEA;
     -  Heterosexual vs. Other
@@ -86,7 +89,7 @@
         +  The more "understood", the more privileged
     -  Male
         +  A generally decreased physical risk threshold
-    -  White
+    -  Race/Ethnicity
     -  Educational background
         +  What options do you have?
         +  What options are you AWARE of?
