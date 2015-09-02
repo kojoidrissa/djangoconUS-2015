@@ -10,3 +10,7 @@ I'm relatively new as an active coder (2013?), so I want to make contributions. 
 "Lots of different ways to contribute" ==> and "Lots of different TYPES of people need to contribute"
 
 Tech communities are still predominantly made up of white cis gendered heterosexual men.
+
+
+"How do I know diversity is REALLY helpful?"
+Lynn Root [already Googled it for you](http://www.roguelynn.com/lmgtfy/).
