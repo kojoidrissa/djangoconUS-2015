@@ -1,11 +1,16 @@
 #New Outline 2015-09-01
 
+#Introduction
+Kojo Idrissa
+@Transition
+kojoidrissa.com
+
 #Motivation
 -  New-ish active coder; how can I contribute?
 -  Help grow the community! Not just any growth, AWESOME growth
     +  Contributors over Bodies
 
-##The issue: A small pool to draw from
+#The issue: A small pool to draw from
 -  Tech communities are still predominantly made up of white cis gendered heterosexual men. Thus, those communities are often unaware of how much they cater to **that** specific demographic while potentially alienating others.
 -  That alienation
     +  often goes unnoticed by the group doing it (it's usually unintentional)
@@ -15,31 +20,31 @@
 -  Further reduce that pool by
     +  People who don't want to join or contribute to our community because it's "too hard", "too nerdy", "too rigorous" etc.
     +  People who would, but have joined another community (Rails, Drupal, Wordpress, etc)
-+  Making the pool bigger
++  How do we make the pool bigger?
 
-##Inclusion > Diversity
+#Inclusion == 'Diversity' + 'Persistance'
 -  Inviting new people is easy. Making them feel welcome enough to stay is the key.
 -  But how?
 
 #Practicing Inclusivity 101: Building Awareness
--  Check your assumptions
 -  Zen of Python on Inclusion Awareness
     +  `Errors should never pass silently`
         +  Check for 'exceptions'(Is there anyone who seems left out? Uncomfortable? "Boxed in" by another participant?)
     +  `In the face of ambiguity, refuse the temptation to guess`
         *  I'm bad at this one, but getting better
-+  "...left as an exercise for the reader": Flip the Demographics to build empathy.
-    *  flip on multiple axes: Race; ethnicity; gender; gender identity; sexual orientation; experience level
+-  Check your assumptions
+    +  Why is our group 95% x?
++  "...left as an exercise for the reader": Invert the Demographics to build empathy.
+    *  invert on multiple axes: Race; ethnicity; gender; gender identity; sexual orientation; experience level
 
 #Practicing Inclusivity 102: Taking Action
 > [If you run a community, and you allow assholes to be awful to members of your community, that means you’re the asshole.](https://twitter.com/fraying/status/610644474734055424) - Derek Powazek via Twitter
 
--  Process your log files
-    -  be prepared to share your concerns/observations with community organizers or leaders
+-  Process your log files: be prepared to share your concerns/observations with community organizers or leaders
 -  Feedback mechanism? Does your community have one? And if so, is it clear and obvious that you WANT/WELCOME feedback? Even if it's negative?
     +  It should be anonymous by default
     -  "They could make a comment or message me on Meetup" is the wrong answer.
-*  Having greeters/ambassadors in your community
+*  Having greeters or ambassadors in your community
     -  designated people to interface with new visitors
     -  *Your community has a small window of 'first contact' with new visitors* Neeraj Tandon
 +  Get out of your bubble
@@ -48,7 +53,7 @@
     -  Anna Ravenscroft, EuroPython 2011, [Diversity as a Dependency](https://www.youtube.com/watch?v=PLYI46Ou-wI) at about 50 minutes, suggests you "bring someone who is NOT like you" to the next conference.
         +  My addenedum: ask them if they'd come to another event? Why or why not?
 
-#Practicing Inclusivity 103: Understanding The Power of Privilege
+#Practicing Inclusivity 103: Understanding Privilege
 >“Privilege isn't wealth or having it easy: it's what you don't have to deal with”  @JustSlyRed #AlterConf 
  - Tweet by [Kojo](https://twitter.com/Transition/status/592068382754635776), quoting [@JustSlyRed](https://twitter.com/JustSlyRed) at [Alterconf - Austin](http://www.alterconf.com/speakers/mario-jara)
 
