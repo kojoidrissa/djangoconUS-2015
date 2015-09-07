@@ -1,0 +1,1 @@
+#My notes from the various sessions I went to at DjangoCon US 2015
