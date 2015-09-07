@@ -4,3 +4,5 @@ Diversity progress in the Python & Django community. An update from DjangoConEU 
 The "Bad Guy" fallacy. It's not just ONE bad actor.
 
 Micro actions
+
+[Links](http://l.ynn.me/1MnHdaw)
