@@ -28,6 +28,8 @@
     +  tmux + vam
     +  Driver + Navigator
     +  Ping pong pair programming
+##Toyota Kata
+http://www-personal.umich.edu/~mrother/Homepage.html
 
 ##Teams
 -  Hire coworkers you get along with

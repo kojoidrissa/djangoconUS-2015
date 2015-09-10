@@ -1,6 +1,8 @@
 #[MAKING DJANGO REALLY, REALLY, RIDICULOUSLY SECURE](http://2015.djangocon.us/schedule/presentation/54/)
 by @_K_E_L_S_E_Y
 
+[Talk links](http://nerd.kelseyinnis.com/blog/2015/09/08/making-django-really-really-ridiculously-secure/)
+
 Works on [Callisto](https://demo.callistocampus.org/), which is information escrow for sexual assault survivors, focused on college campuses.
 
 ##You can't secure the data on the internet

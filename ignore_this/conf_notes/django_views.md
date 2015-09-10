@@ -1,11 +1,12 @@
 #[DJANGO VIEWS: FUNCTIONS, CLASSES, AND GENERICS](http://2015.djangocon.us/schedule/presentation/74/)
-afrg.co/views
+afrg.co/views ==> http://andrewsforge.com/presentation/django-views-functions-classes-generics/
 afrg.co/dju
 afrg.co/class (djangoconus ==> 20% off)
 
 ##fundamentals -> problem, solution
 -  Python `callables`
-    +  I need to learn the definition of this. Seems to be something I can call
+    +  I need to learn the definition of this. Seems to be something I can call.
+        +  https://docs.python.org/3.4/library/functions.html?highlight=callable#callable
     +  `__call__` method makes ANYTING callable
         *  https://docs.python.org/3.4/reference/datamodel.html#object.__call__
 -  What is a view?
