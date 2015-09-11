@@ -14,25 +14,25 @@ How to learn
 * Different learning styles: Visual, Auditory, Kinesthetic
   
 Working with Others
----
+----
 * find someone w/ a style similar to yours
 * schedule time w/ them
 * Show them what you've figured out on your own
 * Find ways to help THEM while you learn.
   
 What to work on?
----
+----
 * What's important to your company?
 * What're people complaining about?
   
 Time Management
----
+----
 * Timebox your efforts
 * Prioritize/create a squence
 * Leave comments in the code when you take a break (what do you need to do when you pick things back up?)
   
 Write Things Down!
----
+----
 * What you've learned
   
   * Reference
@@ -46,6 +46,6 @@ Write Things Down!
   * reminds you of the prior times when you wanted to learn something
     
 Teach
----
+----
 *  New learners are usually the best teachers, as they've gone through the process recently
    
